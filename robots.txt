@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uweyaibe.github.io/BEm/sitemap_index.txt
+Sitemap: https://uweyaibe.github.io/FjG/sitemap_index.txt
+Sitemap: https://uweyaibe.github.io/SeD/sitemap_index.txt
+Sitemap: https://uweyaibe.github.io/kmW/sitemap_index.txt
